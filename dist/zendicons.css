@@ -1,0 +1,1092 @@
+.zi {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1em;
+  text-align: center;
+  width: 1em;
+  display: block;
+}
+.zi-add-outline {
+  -webkit-mask-image: url("/zondicons/add-outline.svg");
+          mask-image: url("/zondicons/add-outline.svg");
+}
+.zi-add-solid {
+  -webkit-mask-image: url("/zondicons/add-solid.svg");
+          mask-image: url("/zondicons/add-solid.svg");
+}
+.zi-adjust {
+  -webkit-mask-image: url("/zondicons/adjust.svg");
+          mask-image: url("/zondicons/adjust.svg");
+}
+.zi-airplane {
+  -webkit-mask-image: url("/zondicons/airplane.svg");
+          mask-image: url("/zondicons/airplane.svg");
+}
+.zi-align-center {
+  -webkit-mask-image: url("/zondicons/align-center.svg");
+          mask-image: url("/zondicons/align-center.svg");
+}
+.zi-align-justified {
+  -webkit-mask-image: url("/zondicons/align-justified.svg");
+          mask-image: url("/zondicons/align-justified.svg");
+}
+.zi-align-left {
+  -webkit-mask-image: url("/zondicons/align-left.svg");
+          mask-image: url("/zondicons/align-left.svg");
+}
+.zi-align-right {
+  -webkit-mask-image: url("/zondicons/align-right.svg");
+          mask-image: url("/zondicons/align-right.svg");
+}
+.zi-anchor {
+  -webkit-mask-image: url("/zondicons/anchor.svg");
+          mask-image: url("/zondicons/anchor.svg");
+}
+.zi-announcement {
+  -webkit-mask-image: url("/zondicons/announcement.svg");
+          mask-image: url("/zondicons/announcement.svg");
+}
+.zi-apparel {
+  -webkit-mask-image: url("/zondicons/apparel.svg");
+          mask-image: url("/zondicons/apparel.svg");
+}
+.zi-arrow-outline-down {
+  -webkit-mask-image: url("/zondicons/arrow-outline-down.svg");
+          mask-image: url("/zondicons/arrow-outline-down.svg");
+}
+.zi-arrow-outline-left {
+  -webkit-mask-image: url("/zondicons/arrow-outline-left.svg");
+          mask-image: url("/zondicons/arrow-outline-left.svg");
+}
+.zi-arrow-outline-right {
+  -webkit-mask-image: url("/zondicons/arrow-outline-right.svg");
+          mask-image: url("/zondicons/arrow-outline-right.svg");
+}
+.zi-arrow-outline-up {
+  -webkit-mask-image: url("/zondicons/arrow-outline-up.svg");
+          mask-image: url("/zondicons/arrow-outline-up.svg");
+}
+.zi-arrow-thick-down {
+  -webkit-mask-image: url("/zondicons/arrow-thick-down.svg");
+          mask-image: url("/zondicons/arrow-thick-down.svg");
+}
+.zi-arrow-thick-left {
+  -webkit-mask-image: url("/zondicons/arrow-thick-left.svg");
+          mask-image: url("/zondicons/arrow-thick-left.svg");
+}
+.zi-arrow-thick-right {
+  -webkit-mask-image: url("/zondicons/arrow-thick-right.svg");
+          mask-image: url("/zondicons/arrow-thick-right.svg");
+}
+.zi-arrow-thick-up {
+  -webkit-mask-image: url("/zondicons/arrow-thick-up.svg");
+          mask-image: url("/zondicons/arrow-thick-up.svg");
+}
+.zi-arrow-thin-down {
+  -webkit-mask-image: url("/zondicons/arrow-thin-down.svg");
+          mask-image: url("/zondicons/arrow-thin-down.svg");
+}
+.zi-arrow-thin-left {
+  -webkit-mask-image: url("/zondicons/arrow-thin-left.svg");
+          mask-image: url("/zondicons/arrow-thin-left.svg");
+}
+.zi-arrow-thin-right {
+  -webkit-mask-image: url("/zondicons/arrow-thin-right.svg");
+          mask-image: url("/zondicons/arrow-thin-right.svg");
+}
+.zi-arrow-thin-up {
+  -webkit-mask-image: url("/zondicons/arrow-thin-up.svg");
+          mask-image: url("/zondicons/arrow-thin-up.svg");
+}
+.zi-at-symbol {
+  -webkit-mask-image: url("/zondicons/at-symbol.svg");
+          mask-image: url("/zondicons/at-symbol.svg");
+}
+.zi-attachment {
+  -webkit-mask-image: url("/zondicons/attachment.svg");
+          mask-image: url("/zondicons/attachment.svg");
+}
+.zi-backspace {
+  -webkit-mask-image: url("/zondicons/backspace.svg");
+          mask-image: url("/zondicons/backspace.svg");
+}
+.zi-badge {
+  -webkit-mask-image: url("/zondicons/badge.svg");
+          mask-image: url("/zondicons/badge.svg");
+}
+.zi-battery-full {
+  -webkit-mask-image: url("/zondicons/battery-full.svg");
+          mask-image: url("/zondicons/battery-full.svg");
+}
+.zi-battery-half {
+  -webkit-mask-image: url("/zondicons/battery-half.svg");
+          mask-image: url("/zondicons/battery-half.svg");
+}
+.zi-battery-low {
+  -webkit-mask-image: url("/zondicons/battery-low.svg");
+          mask-image: url("/zondicons/battery-low.svg");
+}
+.zi-beverage {
+  -webkit-mask-image: url("/zondicons/beverage.svg");
+          mask-image: url("/zondicons/beverage.svg");
+}
+.zi-block {
+  -webkit-mask-image: url("/zondicons/block.svg");
+          mask-image: url("/zondicons/block.svg");
+}
+.zi-bluetooth {
+  -webkit-mask-image: url("/zondicons/bluetooth.svg");
+          mask-image: url("/zondicons/bluetooth.svg");
+}
+.zi-bolt {
+  -webkit-mask-image: url("/zondicons/bolt.svg");
+          mask-image: url("/zondicons/bolt.svg");
+}
+.zi-book-reference {
+  -webkit-mask-image: url("/zondicons/book-reference.svg");
+          mask-image: url("/zondicons/book-reference.svg");
+}
+.zi-bookmark-outline-add {
+  -webkit-mask-image: url("/zondicons/bookmark-outline-add.svg");
+          mask-image: url("/zondicons/bookmark-outline-add.svg");
+}
+.zi-bookmark-outline {
+  -webkit-mask-image: url("/zondicons/bookmark-outline.svg");
+          mask-image: url("/zondicons/bookmark-outline.svg");
+}
+.zi-bookmark {
+  -webkit-mask-image: url("/zondicons/bookmark.svg");
+          mask-image: url("/zondicons/bookmark.svg");
+}
+.zi-border-all {
+  -webkit-mask-image: url("/zondicons/border-all.svg");
+          mask-image: url("/zondicons/border-all.svg");
+}
+.zi-border-bottom {
+  -webkit-mask-image: url("/zondicons/border-bottom.svg");
+          mask-image: url("/zondicons/border-bottom.svg");
+}
+.zi-border-horizontal {
+  -webkit-mask-image: url("/zondicons/border-horizontal.svg");
+          mask-image: url("/zondicons/border-horizontal.svg");
+}
+.zi-border-inner {
+  -webkit-mask-image: url("/zondicons/border-inner.svg");
+          mask-image: url("/zondicons/border-inner.svg");
+}
+.zi-border-left {
+  -webkit-mask-image: url("/zondicons/border-left.svg");
+          mask-image: url("/zondicons/border-left.svg");
+}
+.zi-border-none {
+  -webkit-mask-image: url("/zondicons/border-none.svg");
+          mask-image: url("/zondicons/border-none.svg");
+}
+.zi-border-outer {
+  -webkit-mask-image: url("/zondicons/border-outer.svg");
+          mask-image: url("/zondicons/border-outer.svg");
+}
+.zi-border-right {
+  -webkit-mask-image: url("/zondicons/border-right.svg");
+          mask-image: url("/zondicons/border-right.svg");
+}
+.zi-border-top {
+  -webkit-mask-image: url("/zondicons/border-top.svg");
+          mask-image: url("/zondicons/border-top.svg");
+}
+.zi-border-vertical {
+  -webkit-mask-image: url("/zondicons/border-vertical.svg");
+          mask-image: url("/zondicons/border-vertical.svg");
+}
+.zi-box {
+  -webkit-mask-image: url("/zondicons/box.svg");
+          mask-image: url("/zondicons/box.svg");
+}
+.zi-brightness-down {
+  -webkit-mask-image: url("/zondicons/brightness-down.svg");
+          mask-image: url("/zondicons/brightness-down.svg");
+}
+.zi-brightness-up {
+  -webkit-mask-image: url("/zondicons/brightness-up.svg");
+          mask-image: url("/zondicons/brightness-up.svg");
+}
+.zi-browser-window-add {
+  -webkit-mask-image: url("/zondicons/browser-window-add.svg");
+          mask-image: url("/zondicons/browser-window-add.svg");
+}
+.zi-browser-window-open {
+  -webkit-mask-image: url("/zondicons/browser-window-open.svg");
+          mask-image: url("/zondicons/browser-window-open.svg");
+}
+.zi-browser-window {
+  -webkit-mask-image: url("/zondicons/browser-window.svg");
+          mask-image: url("/zondicons/browser-window.svg");
+}
+.zi-bug {
+  -webkit-mask-image: url("/zondicons/bug.svg");
+          mask-image: url("/zondicons/bug.svg");
+}
+.zi-buoy {
+  -webkit-mask-image: url("/zondicons/buoy.svg");
+          mask-image: url("/zondicons/buoy.svg");
+}
+.zi-calculator {
+  -webkit-mask-image: url("/zondicons/calculator.svg");
+          mask-image: url("/zondicons/calculator.svg");
+}
+.zi-calendar {
+  -webkit-mask-image: url("/zondicons/calendar.svg");
+          mask-image: url("/zondicons/calendar.svg");
+}
+.zi-camera {
+  -webkit-mask-image: url("/zondicons/camera.svg");
+          mask-image: url("/zondicons/camera.svg");
+}
+.zi-chart-bar {
+  -webkit-mask-image: url("/zondicons/chart-bar.svg");
+          mask-image: url("/zondicons/chart-bar.svg");
+}
+.zi-chart-pie {
+  -webkit-mask-image: url("/zondicons/chart-pie.svg");
+          mask-image: url("/zondicons/chart-pie.svg");
+}
+.zi-chart {
+  -webkit-mask-image: url("/zondicons/chart.svg");
+          mask-image: url("/zondicons/chart.svg");
+}
+.zi-chat-bubble-dots {
+  -webkit-mask-image: url("/zondicons/chat-bubble-dots.svg");
+          mask-image: url("/zondicons/chat-bubble-dots.svg");
+}
+.zi-checkmark-outline {
+  -webkit-mask-image: url("/zondicons/checkmark-outline.svg");
+          mask-image: url("/zondicons/checkmark-outline.svg");
+}
+.zi-checkmark {
+  -webkit-mask-image: url("/zondicons/checkmark.svg");
+          mask-image: url("/zondicons/checkmark.svg");
+}
+.zi-cheveron-down {
+  -webkit-mask-image: url("/zondicons/cheveron-down.svg");
+          mask-image: url("/zondicons/cheveron-down.svg");
+}
+.zi-cheveron-left {
+  -webkit-mask-image: url("/zondicons/cheveron-left.svg");
+          mask-image: url("/zondicons/cheveron-left.svg");
+}
+.zi-cheveron-outline-down {
+  -webkit-mask-image: url("/zondicons/cheveron-outline-down.svg");
+          mask-image: url("/zondicons/cheveron-outline-down.svg");
+}
+.zi-cheveron-outline-left {
+  -webkit-mask-image: url("/zondicons/cheveron-outline-left.svg");
+          mask-image: url("/zondicons/cheveron-outline-left.svg");
+}
+.zi-cheveron-outline-right {
+  -webkit-mask-image: url("/zondicons/cheveron-outline-right.svg");
+          mask-image: url("/zondicons/cheveron-outline-right.svg");
+}
+.zi-cheveron-outline-up {
+  -webkit-mask-image: url("/zondicons/cheveron-outline-up.svg");
+          mask-image: url("/zondicons/cheveron-outline-up.svg");
+}
+.zi-cheveron-right {
+  -webkit-mask-image: url("/zondicons/cheveron-right.svg");
+          mask-image: url("/zondicons/cheveron-right.svg");
+}
+.zi-cheveron-up {
+  -webkit-mask-image: url("/zondicons/cheveron-up.svg");
+          mask-image: url("/zondicons/cheveron-up.svg");
+}
+.zi-clipboard {
+  -webkit-mask-image: url("/zondicons/clipboard.svg");
+          mask-image: url("/zondicons/clipboard.svg");
+}
+.zi-close-outline {
+  -webkit-mask-image: url("/zondicons/close-outline.svg");
+          mask-image: url("/zondicons/close-outline.svg");
+}
+.zi-close-solid {
+  -webkit-mask-image: url("/zondicons/close-solid.svg");
+          mask-image: url("/zondicons/close-solid.svg");
+}
+.zi-close {
+  -webkit-mask-image: url("/zondicons/close.svg");
+          mask-image: url("/zondicons/close.svg");
+}
+.zi-cloud-upload {
+  -webkit-mask-image: url("/zondicons/cloud-upload.svg");
+          mask-image: url("/zondicons/cloud-upload.svg");
+}
+.zi-cloud {
+  -webkit-mask-image: url("/zondicons/cloud.svg");
+          mask-image: url("/zondicons/cloud.svg");
+}
+.zi-code {
+  -webkit-mask-image: url("/zondicons/code.svg");
+          mask-image: url("/zondicons/code.svg");
+}
+.zi-coffee {
+  -webkit-mask-image: url("/zondicons/coffee.svg");
+          mask-image: url("/zondicons/coffee.svg");
+}
+.zi-cog {
+  -webkit-mask-image: url("/zondicons/cog.svg");
+          mask-image: url("/zondicons/cog.svg");
+}
+.zi-color-palette {
+  -webkit-mask-image: url("/zondicons/color-palette.svg");
+          mask-image: url("/zondicons/color-palette.svg");
+}
+.zi-compose {
+  -webkit-mask-image: url("/zondicons/compose.svg");
+          mask-image: url("/zondicons/compose.svg");
+}
+.zi-computer-desktop {
+  -webkit-mask-image: url("/zondicons/computer-desktop.svg");
+          mask-image: url("/zondicons/computer-desktop.svg");
+}
+.zi-computer-laptop {
+  -webkit-mask-image: url("/zondicons/computer-laptop.svg");
+          mask-image: url("/zondicons/computer-laptop.svg");
+}
+.zi-conversation {
+  -webkit-mask-image: url("/zondicons/conversation.svg");
+          mask-image: url("/zondicons/conversation.svg");
+}
+.zi-credit-card {
+  -webkit-mask-image: url("/zondicons/credit-card.svg");
+          mask-image: url("/zondicons/credit-card.svg");
+}
+.zi-currency-dollar {
+  -webkit-mask-image: url("/zondicons/currency-dollar.svg");
+          mask-image: url("/zondicons/currency-dollar.svg");
+}
+.zi-dashboard {
+  -webkit-mask-image: url("/zondicons/dashboard.svg");
+          mask-image: url("/zondicons/dashboard.svg");
+}
+.zi-date-add {
+  -webkit-mask-image: url("/zondicons/date-add.svg");
+          mask-image: url("/zondicons/date-add.svg");
+}
+.zi-dial-pad {
+  -webkit-mask-image: url("/zondicons/dial-pad.svg");
+          mask-image: url("/zondicons/dial-pad.svg");
+}
+.zi-directions {
+  -webkit-mask-image: url("/zondicons/directions.svg");
+          mask-image: url("/zondicons/directions.svg");
+}
+.zi-document-add {
+  -webkit-mask-image: url("/zondicons/document-add.svg");
+          mask-image: url("/zondicons/document-add.svg");
+}
+.zi-document {
+  -webkit-mask-image: url("/zondicons/document.svg");
+          mask-image: url("/zondicons/document.svg");
+}
+.zi-dots-horizontal-double {
+  -webkit-mask-image: url("/zondicons/dots-horizontal-double.svg");
+          mask-image: url("/zondicons/dots-horizontal-double.svg");
+}
+.zi-dots-horizontal-triple {
+  -webkit-mask-image: url("/zondicons/dots-horizontal-triple.svg");
+          mask-image: url("/zondicons/dots-horizontal-triple.svg");
+}
+.zi-download {
+  -webkit-mask-image: url("/zondicons/download.svg");
+          mask-image: url("/zondicons/download.svg");
+}
+.zi-duplicate {
+  -webkit-mask-image: url("/zondicons/duplicate.svg");
+          mask-image: url("/zondicons/duplicate.svg");
+}
+.zi-edit-copy {
+  -webkit-mask-image: url("/zondicons/edit-copy.svg");
+          mask-image: url("/zondicons/edit-copy.svg");
+}
+.zi-edit-crop {
+  -webkit-mask-image: url("/zondicons/edit-crop.svg");
+          mask-image: url("/zondicons/edit-crop.svg");
+}
+.zi-edit-cut {
+  -webkit-mask-image: url("/zondicons/edit-cut.svg");
+          mask-image: url("/zondicons/edit-cut.svg");
+}
+.zi-edit-pencil {
+  -webkit-mask-image: url("/zondicons/edit-pencil.svg");
+          mask-image: url("/zondicons/edit-pencil.svg");
+}
+.zi-education {
+  -webkit-mask-image: url("/zondicons/education.svg");
+          mask-image: url("/zondicons/education.svg");
+}
+.zi-envelope {
+  -webkit-mask-image: url("/zondicons/envelope.svg");
+          mask-image: url("/zondicons/envelope.svg");
+}
+.zi-exclamation-outline {
+  -webkit-mask-image: url("/zondicons/exclamation-outline.svg");
+          mask-image: url("/zondicons/exclamation-outline.svg");
+}
+.zi-exclamation-solid {
+  -webkit-mask-image: url("/zondicons/exclamation-solid.svg");
+          mask-image: url("/zondicons/exclamation-solid.svg");
+}
+.zi-explore {
+  -webkit-mask-image: url("/zondicons/explore.svg");
+          mask-image: url("/zondicons/explore.svg");
+}
+.zi-factory {
+  -webkit-mask-image: url("/zondicons/factory.svg");
+          mask-image: url("/zondicons/factory.svg");
+}
+.zi-fast-forward {
+  -webkit-mask-image: url("/zondicons/fast-forward.svg");
+          mask-image: url("/zondicons/fast-forward.svg");
+}
+.zi-fast-rewind {
+  -webkit-mask-image: url("/zondicons/fast-rewind.svg");
+          mask-image: url("/zondicons/fast-rewind.svg");
+}
+.zi-film {
+  -webkit-mask-image: url("/zondicons/film.svg");
+          mask-image: url("/zondicons/film.svg");
+}
+.zi-filter {
+  -webkit-mask-image: url("/zondicons/filter.svg");
+          mask-image: url("/zondicons/filter.svg");
+}
+.zi-flag {
+  -webkit-mask-image: url("/zondicons/flag.svg");
+          mask-image: url("/zondicons/flag.svg");
+}
+.zi-flashlight {
+  -webkit-mask-image: url("/zondicons/flashlight.svg");
+          mask-image: url("/zondicons/flashlight.svg");
+}
+.zi-folder-outline-add {
+  -webkit-mask-image: url("/zondicons/folder-outline-add.svg");
+          mask-image: url("/zondicons/folder-outline-add.svg");
+}
+.zi-folder-outline {
+  -webkit-mask-image: url("/zondicons/folder-outline.svg");
+          mask-image: url("/zondicons/folder-outline.svg");
+}
+.zi-folder {
+  -webkit-mask-image: url("/zondicons/folder.svg");
+          mask-image: url("/zondicons/folder.svg");
+}
+.zi-format-bold {
+  -webkit-mask-image: url("/zondicons/format-bold.svg");
+          mask-image: url("/zondicons/format-bold.svg");
+}
+.zi-format-italic {
+  -webkit-mask-image: url("/zondicons/format-italic.svg");
+          mask-image: url("/zondicons/format-italic.svg");
+}
+.zi-format-text-size {
+  -webkit-mask-image: url("/zondicons/format-text-size.svg");
+          mask-image: url("/zondicons/format-text-size.svg");
+}
+.zi-format-underline {
+  -webkit-mask-image: url("/zondicons/format-underline.svg");
+          mask-image: url("/zondicons/format-underline.svg");
+}
+.zi-gift {
+  -webkit-mask-image: url("/zondicons/gift.svg");
+          mask-image: url("/zondicons/gift.svg");
+}
+.zi-globe {
+  -webkit-mask-image: url("/zondicons/globe.svg");
+          mask-image: url("/zondicons/globe.svg");
+}
+.zi-hand-stop {
+  -webkit-mask-image: url("/zondicons/hand-stop.svg");
+          mask-image: url("/zondicons/hand-stop.svg");
+}
+.zi-hard-drive {
+  -webkit-mask-image: url("/zondicons/hard-drive.svg");
+          mask-image: url("/zondicons/hard-drive.svg");
+}
+.zi-headphones {
+  -webkit-mask-image: url("/zondicons/headphones.svg");
+          mask-image: url("/zondicons/headphones.svg");
+}
+.zi-heart {
+  -webkit-mask-image: url("/zondicons/heart.svg");
+          mask-image: url("/zondicons/heart.svg");
+}
+.zi-home {
+  -webkit-mask-image: url("/zondicons/home.svg");
+          mask-image: url("/zondicons/home.svg");
+}
+.zi-hot {
+  -webkit-mask-image: url("/zondicons/hot.svg");
+          mask-image: url("/zondicons/hot.svg");
+}
+.zi-hour-glass {
+  -webkit-mask-image: url("/zondicons/hour-glass.svg");
+          mask-image: url("/zondicons/hour-glass.svg");
+}
+.zi-inbox-check {
+  -webkit-mask-image: url("/zondicons/inbox-check.svg");
+          mask-image: url("/zondicons/inbox-check.svg");
+}
+.zi-inbox-download {
+  -webkit-mask-image: url("/zondicons/inbox-download.svg");
+          mask-image: url("/zondicons/inbox-download.svg");
+}
+.zi-inbox-full {
+  -webkit-mask-image: url("/zondicons/inbox-full.svg");
+          mask-image: url("/zondicons/inbox-full.svg");
+}
+.zi-inbox {
+  -webkit-mask-image: url("/zondicons/inbox.svg");
+          mask-image: url("/zondicons/inbox.svg");
+}
+.zi-indent-decrease {
+  -webkit-mask-image: url("/zondicons/indent-decrease.svg");
+          mask-image: url("/zondicons/indent-decrease.svg");
+}
+.zi-indent-increase {
+  -webkit-mask-image: url("/zondicons/indent-increase.svg");
+          mask-image: url("/zondicons/indent-increase.svg");
+}
+.zi-information-outline {
+  -webkit-mask-image: url("/zondicons/information-outline.svg");
+          mask-image: url("/zondicons/information-outline.svg");
+}
+.zi-information-solid {
+  -webkit-mask-image: url("/zondicons/information-solid.svg");
+          mask-image: url("/zondicons/information-solid.svg");
+}
+.zi-key {
+  -webkit-mask-image: url("/zondicons/key.svg");
+          mask-image: url("/zondicons/key.svg");
+}
+.zi-keyboard {
+  -webkit-mask-image: url("/zondicons/keyboard.svg");
+          mask-image: url("/zondicons/keyboard.svg");
+}
+.zi-layers {
+  -webkit-mask-image: url("/zondicons/layers.svg");
+          mask-image: url("/zondicons/layers.svg");
+}
+.zi-library {
+  -webkit-mask-image: url("/zondicons/library.svg");
+          mask-image: url("/zondicons/library.svg");
+}
+.zi-light-bulb {
+  -webkit-mask-image: url("/zondicons/light-bulb.svg");
+          mask-image: url("/zondicons/light-bulb.svg");
+}
+.zi-link {
+  -webkit-mask-image: url("/zondicons/link.svg");
+          mask-image: url("/zondicons/link.svg");
+}
+.zi-list-add {
+  -webkit-mask-image: url("/zondicons/list-add.svg");
+          mask-image: url("/zondicons/list-add.svg");
+}
+.zi-list-bullet {
+  -webkit-mask-image: url("/zondicons/list-bullet.svg");
+          mask-image: url("/zondicons/list-bullet.svg");
+}
+.zi-load-balancer {
+  -webkit-mask-image: url("/zondicons/load-balancer.svg");
+          mask-image: url("/zondicons/load-balancer.svg");
+}
+.zi-location-current {
+  -webkit-mask-image: url("/zondicons/location-current.svg");
+          mask-image: url("/zondicons/location-current.svg");
+}
+.zi-location-food {
+  -webkit-mask-image: url("/zondicons/location-food.svg");
+          mask-image: url("/zondicons/location-food.svg");
+}
+.zi-location-gas-station {
+  -webkit-mask-image: url("/zondicons/location-gas-station.svg");
+          mask-image: url("/zondicons/location-gas-station.svg");
+}
+.zi-location-hotel {
+  -webkit-mask-image: url("/zondicons/location-hotel.svg");
+          mask-image: url("/zondicons/location-hotel.svg");
+}
+.zi-location-marina {
+  -webkit-mask-image: url("/zondicons/location-marina.svg");
+          mask-image: url("/zondicons/location-marina.svg");
+}
+.zi-location-park {
+  -webkit-mask-image: url("/zondicons/location-park.svg");
+          mask-image: url("/zondicons/location-park.svg");
+}
+.zi-location-restroom {
+  -webkit-mask-image: url("/zondicons/location-restroom.svg");
+          mask-image: url("/zondicons/location-restroom.svg");
+}
+.zi-location-shopping {
+  -webkit-mask-image: url("/zondicons/location-shopping.svg");
+          mask-image: url("/zondicons/location-shopping.svg");
+}
+.zi-location {
+  -webkit-mask-image: url("/zondicons/location.svg");
+          mask-image: url("/zondicons/location.svg");
+}
+.zi-lock-closed {
+  -webkit-mask-image: url("/zondicons/lock-closed.svg");
+          mask-image: url("/zondicons/lock-closed.svg");
+}
+.zi-lock-open {
+  -webkit-mask-image: url("/zondicons/lock-open.svg");
+          mask-image: url("/zondicons/lock-open.svg");
+}
+.zi-map {
+  -webkit-mask-image: url("/zondicons/map.svg");
+          mask-image: url("/zondicons/map.svg");
+}
+.zi-menu {
+  -webkit-mask-image: url("/zondicons/menu.svg");
+          mask-image: url("/zondicons/menu.svg");
+}
+.zi-mic {
+  -webkit-mask-image: url("/zondicons/mic.svg");
+          mask-image: url("/zondicons/mic.svg");
+}
+.zi-minus-outline {
+  -webkit-mask-image: url("/zondicons/minus-outline.svg");
+          mask-image: url("/zondicons/minus-outline.svg");
+}
+.zi-minus-solid {
+  -webkit-mask-image: url("/zondicons/minus-solid.svg");
+          mask-image: url("/zondicons/minus-solid.svg");
+}
+.zi-mobile-devices {
+  -webkit-mask-image: url("/zondicons/mobile-devices.svg");
+          mask-image: url("/zondicons/mobile-devices.svg");
+}
+.zi-mood-happy-outline {
+  -webkit-mask-image: url("/zondicons/mood-happy-outline.svg");
+          mask-image: url("/zondicons/mood-happy-outline.svg");
+}
+.zi-mood-happy-solid {
+  -webkit-mask-image: url("/zondicons/mood-happy-solid.svg");
+          mask-image: url("/zondicons/mood-happy-solid.svg");
+}
+.zi-mood-neutral-outline {
+  -webkit-mask-image: url("/zondicons/mood-neutral-outline.svg");
+          mask-image: url("/zondicons/mood-neutral-outline.svg");
+}
+.zi-mood-neutral-solid {
+  -webkit-mask-image: url("/zondicons/mood-neutral-solid.svg");
+          mask-image: url("/zondicons/mood-neutral-solid.svg");
+}
+.zi-mood-sad-outline {
+  -webkit-mask-image: url("/zondicons/mood-sad-outline.svg");
+          mask-image: url("/zondicons/mood-sad-outline.svg");
+}
+.zi-mood-sad-solid {
+  -webkit-mask-image: url("/zondicons/mood-sad-solid.svg");
+          mask-image: url("/zondicons/mood-sad-solid.svg");
+}
+.zi-mouse {
+  -webkit-mask-image: url("/zondicons/mouse.svg");
+          mask-image: url("/zondicons/mouse.svg");
+}
+.zi-music-album {
+  -webkit-mask-image: url("/zondicons/music-album.svg");
+          mask-image: url("/zondicons/music-album.svg");
+}
+.zi-music-artist {
+  -webkit-mask-image: url("/zondicons/music-artist.svg");
+          mask-image: url("/zondicons/music-artist.svg");
+}
+.zi-music-notes {
+  -webkit-mask-image: url("/zondicons/music-notes.svg");
+          mask-image: url("/zondicons/music-notes.svg");
+}
+.zi-music-playlist {
+  -webkit-mask-image: url("/zondicons/music-playlist.svg");
+          mask-image: url("/zondicons/music-playlist.svg");
+}
+.zi-navigation-more {
+  -webkit-mask-image: url("/zondicons/navigation-more.svg");
+          mask-image: url("/zondicons/navigation-more.svg");
+}
+.zi-network {
+  -webkit-mask-image: url("/zondicons/network.svg");
+          mask-image: url("/zondicons/network.svg");
+}
+.zi-notifications-outline {
+  -webkit-mask-image: url("/zondicons/notifications-outline.svg");
+          mask-image: url("/zondicons/notifications-outline.svg");
+}
+.zi-notifications {
+  -webkit-mask-image: url("/zondicons/notifications.svg");
+          mask-image: url("/zondicons/notifications.svg");
+}
+.zi-paste {
+  -webkit-mask-image: url("/zondicons/paste.svg");
+          mask-image: url("/zondicons/paste.svg");
+}
+.zi-pause-outline {
+  -webkit-mask-image: url("/zondicons/pause-outline.svg");
+          mask-image: url("/zondicons/pause-outline.svg");
+}
+.zi-pause-solid {
+  -webkit-mask-image: url("/zondicons/pause-solid.svg");
+          mask-image: url("/zondicons/pause-solid.svg");
+}
+.zi-pause {
+  -webkit-mask-image: url("/zondicons/pause.svg");
+          mask-image: url("/zondicons/pause.svg");
+}
+.zi-pen-tool {
+  -webkit-mask-image: url("/zondicons/pen-tool.svg");
+          mask-image: url("/zondicons/pen-tool.svg");
+}
+.zi-phone {
+  -webkit-mask-image: url("/zondicons/phone.svg");
+          mask-image: url("/zondicons/phone.svg");
+}
+.zi-photo {
+  -webkit-mask-image: url("/zondicons/photo.svg");
+          mask-image: url("/zondicons/photo.svg");
+}
+.zi-pin {
+  -webkit-mask-image: url("/zondicons/pin.svg");
+          mask-image: url("/zondicons/pin.svg");
+}
+.zi-play-outline {
+  -webkit-mask-image: url("/zondicons/play-outline.svg");
+          mask-image: url("/zondicons/play-outline.svg");
+}
+.zi-play-outline {
+  -webkit-mask-image: url("/zondicons/play-outline.svg");
+          mask-image: url("/zondicons/play-outline.svg");
+}
+.zi-plugin {
+  -webkit-mask-image: url("/zondicons/plugin.svg");
+          mask-image: url("/zondicons/plugin.svg");
+}
+.zi-portfolio {
+  -webkit-mask-image: url("/zondicons/portfolio.svg");
+          mask-image: url("/zondicons/portfolio.svg");
+}
+.zi-printer {
+  -webkit-mask-image: url("/zondicons/printer.svg");
+          mask-image: url("/zondicons/printer.svg");
+}
+.zi-pylon {
+  -webkit-mask-image: url("/zondicons/pylon.svg");
+          mask-image: url("/zondicons/pylon.svg");
+}
+.zi-question {
+  -webkit-mask-image: url("/zondicons/question.svg");
+          mask-image: url("/zondicons/question.svg");
+}
+.zi-queue {
+  -webkit-mask-image: url("/zondicons/queue.svg");
+          mask-image: url("/zondicons/queue.svg");
+}
+.zi-radar {
+  -webkit-mask-image: url("/zondicons/radar.svg");
+          mask-image: url("/zondicons/radar.svg");
+}
+.zi-radio {
+  -webkit-mask-image: url("/zondicons/radio.svg");
+          mask-image: url("/zondicons/radio.svg");
+}
+.zi-refresh {
+  -webkit-mask-image: url("/zondicons/refresh.svg");
+          mask-image: url("/zondicons/refresh.svg");
+}
+.zi-reload {
+  -webkit-mask-image: url("/zondicons/reload.svg");
+          mask-image: url("/zondicons/reload.svg");
+}
+.zi-reply-all {
+  -webkit-mask-image: url("/zondicons/reply-all.svg");
+          mask-image: url("/zondicons/reply-all.svg");
+}
+.zi-reply {
+  -webkit-mask-image: url("/zondicons/reply.svg");
+          mask-image: url("/zondicons/reply.svg");
+}
+.zi-repost {
+  -webkit-mask-image: url("/zondicons/repost.svg");
+          mask-image: url("/zondicons/repost.svg");
+}
+.zi-s-paper {
+  -webkit-mask-image: url("/zondicons/s-paper.svg");
+          mask-image: url("/zondicons/s-paper.svg");
+}
+.zi-save-disk {
+  -webkit-mask-image: url("/zondicons/save-disk.svg");
+          mask-image: url("/zondicons/save-disk.svg");
+}
+.zi-screen-full {
+  -webkit-mask-image: url("/zondicons/screen-full.svg");
+          mask-image: url("/zondicons/screen-full.svg");
+}
+.zi-search {
+  -webkit-mask-image: url("/zondicons/search.svg");
+          mask-image: url("/zondicons/search.svg");
+}
+.zi-send {
+  -webkit-mask-image: url("/zondicons/send.svg");
+          mask-image: url("/zondicons/send.svg");
+}
+.zi-share-alt {
+  -webkit-mask-image: url("/zondicons/share-alt.svg");
+          mask-image: url("/zondicons/share-alt.svg");
+}
+.zi-share {
+  -webkit-mask-image: url("/zondicons/share.svg");
+          mask-image: url("/zondicons/share.svg");
+}
+.zi-shield {
+  -webkit-mask-image: url("/zondicons/shield.svg");
+          mask-image: url("/zondicons/shield.svg");
+}
+.zi-shopping-cart {
+  -webkit-mask-image: url("/zondicons/shopping-cart.svg");
+          mask-image: url("/zondicons/shopping-cart.svg");
+}
+.zi-show-sidebar {
+  -webkit-mask-image: url("/zondicons/show-sidebar.svg");
+          mask-image: url("/zondicons/show-sidebar.svg");
+}
+.zi-shuffle {
+  -webkit-mask-image: url("/zondicons/shuffle.svg");
+          mask-image: url("/zondicons/shuffle.svg");
+}
+.zi-stand-by {
+  -webkit-mask-image: url("/zondicons/stand-by.svg");
+          mask-image: url("/zondicons/stand-by.svg");
+}
+.zi-star {
+  -webkit-mask-image: url("/zondicons/star.svg");
+          mask-image: url("/zondicons/star.svg");
+}
+.zi-station {
+  -webkit-mask-image: url("/zondicons/station.svg");
+          mask-image: url("/zondicons/station.svg");
+}
+.zi-step-backward {
+  -webkit-mask-image: url("/zondicons/step-backward.svg");
+          mask-image: url("/zondicons/step-backward.svg");
+}
+.zi-step-forward {
+  -webkit-mask-image: url("/zondicons/step-forward.svg");
+          mask-image: url("/zondicons/step-forward.svg");
+}
+.zi-stethoscope {
+  -webkit-mask-image: url("/zondicons/stethoscope.svg");
+          mask-image: url("/zondicons/stethoscope.svg");
+}
+.zi-store-front {
+  -webkit-mask-image: url("/zondicons/store-front.svg");
+          mask-image: url("/zondicons/store-front.svg");
+}
+.zi-stroke-width {
+  -webkit-mask-image: url("/zondicons/stroke-width.svg");
+          mask-image: url("/zondicons/stroke-width.svg");
+}
+.zi-subdirectory-left {
+  -webkit-mask-image: url("/zondicons/subdirectory-left.svg");
+          mask-image: url("/zondicons/subdirectory-left.svg");
+}
+.zi-subdirectory-right {
+  -webkit-mask-image: url("/zondicons/subdirectory-right.svg");
+          mask-image: url("/zondicons/subdirectory-right.svg");
+}
+.zi-swap {
+  -webkit-mask-image: url("/zondicons/swap.svg");
+          mask-image: url("/zondicons/swap.svg");
+}
+.zi-tablet {
+  -webkit-mask-image: url("/zondicons/tablet.svg");
+          mask-image: url("/zondicons/tablet.svg");
+}
+.zi-tag {
+  -webkit-mask-image: url("/zondicons/tag.svg");
+          mask-image: url("/zondicons/tag.svg");
+}
+.zi-target {
+  -webkit-mask-image: url("/zondicons/target.svg");
+          mask-image: url("/zondicons/target.svg");
+}
+.zi-text-box {
+  -webkit-mask-image: url("/zondicons/text-box.svg");
+          mask-image: url("/zondicons/text-box.svg");
+}
+.zi-text-decoration {
+  -webkit-mask-image: url("/zondicons/text-decoration.svg");
+          mask-image: url("/zondicons/text-decoration.svg");
+}
+.zi-thermometer {
+  -webkit-mask-image: url("/zondicons/thermometer.svg");
+          mask-image: url("/zondicons/thermometer.svg");
+}
+.zi-thumbs-down {
+  -webkit-mask-image: url("/zondicons/thumbs-down.svg");
+          mask-image: url("/zondicons/thumbs-down.svg");
+}
+.zi-thumbs-up {
+  -webkit-mask-image: url("/zondicons/thumbs-up.svg");
+          mask-image: url("/zondicons/thumbs-up.svg");
+}
+.zi-ticket {
+  -webkit-mask-image: url("/zondicons/ticket.svg");
+          mask-image: url("/zondicons/ticket.svg");
+}
+.zi-time {
+  -webkit-mask-image: url("/zondicons/time.svg");
+          mask-image: url("/zondicons/time.svg");
+}
+.zi-timer {
+  -webkit-mask-image: url("/zondicons/timer.svg");
+          mask-image: url("/zondicons/timer.svg");
+}
+.zi-translate {
+  -webkit-mask-image: url("/zondicons/translate.svg");
+          mask-image: url("/zondicons/translate.svg");
+}
+.zi-trash {
+  -webkit-mask-image: url("/zondicons/trash.svg");
+          mask-image: url("/zondicons/trash.svg");
+}
+.zi-travel-bus {
+  -webkit-mask-image: url("/zondicons/travel-bus.svg");
+          mask-image: url("/zondicons/travel-bus.svg");
+}
+.zi-travel-car {
+  -webkit-mask-image: url("/zondicons/travel-car.svg");
+          mask-image: url("/zondicons/travel-car.svg");
+}
+.zi-travel-case {
+  -webkit-mask-image: url("/zondicons/travel-case.svg");
+          mask-image: url("/zondicons/travel-case.svg");
+}
+.zi-travel-taxi-cab {
+  -webkit-mask-image: url("/zondicons/travel-taxi-cab.svg");
+          mask-image: url("/zondicons/travel-taxi-cab.svg");
+}
+.zi-travel-train {
+  -webkit-mask-image: url("/zondicons/travel-train.svg");
+          mask-image: url("/zondicons/travel-train.svg");
+}
+.zi-travel-walk {
+  -webkit-mask-image: url("/zondicons/travel-walk.svg");
+          mask-image: url("/zondicons/travel-walk.svg");
+}
+.zi-trophy {
+  -webkit-mask-image: url("/zondicons/trophy.svg");
+          mask-image: url("/zondicons/trophy.svg");
+}
+.zi-tuning {
+  -webkit-mask-image: url("/zondicons/tuning.svg");
+          mask-image: url("/zondicons/tuning.svg");
+}
+.zi-upload {
+  -webkit-mask-image: url("/zondicons/upload.svg");
+          mask-image: url("/zondicons/upload.svg");
+}
+.zi-usb {
+  -webkit-mask-image: url("/zondicons/usb.svg");
+          mask-image: url("/zondicons/usb.svg");
+}
+.zi-user-add {
+  -webkit-mask-image: url("/zondicons/user-add.svg");
+          mask-image: url("/zondicons/user-add.svg");
+}
+.zi-user-group {
+  -webkit-mask-image: url("/zondicons/user-group.svg");
+          mask-image: url("/zondicons/user-group.svg");
+}
+.zi-user-solid-circle {
+  -webkit-mask-image: url("/zondicons/user-solid-circle.svg");
+          mask-image: url("/zondicons/user-solid-circle.svg");
+}
+.zi-user-solid-square {
+  -webkit-mask-image: url("/zondicons/user-solid-square.svg");
+          mask-image: url("/zondicons/user-solid-square.svg");
+}
+.zi-user {
+  -webkit-mask-image: url("/zondicons/user.svg");
+          mask-image: url("/zondicons/user.svg");
+}
+.zi-vector {
+  -webkit-mask-image: url("/zondicons/vector.svg");
+          mask-image: url("/zondicons/vector.svg");
+}
+.zi-video-camera {
+  -webkit-mask-image: url("/zondicons/video-camera.svg");
+          mask-image: url("/zondicons/video-camera.svg");
+}
+.zi-view-carousel {
+  -webkit-mask-image: url("/zondicons/view-carousel.svg");
+          mask-image: url("/zondicons/view-carousel.svg");
+}
+.zi-view-column {
+  -webkit-mask-image: url("/zondicons/view-column.svg");
+          mask-image: url("/zondicons/view-column.svg");
+}
+.zi-view-hide {
+  -webkit-mask-image: url("/zondicons/view-hide.svg");
+          mask-image: url("/zondicons/view-hide.svg");
+}
+.zi-view-list {
+  -webkit-mask-image: url("/zondicons/view-list.svg");
+          mask-image: url("/zondicons/view-list.svg");
+}
+.zi-view-show {
+  -webkit-mask-image: url("/zondicons/view-show.svg");
+          mask-image: url("/zondicons/view-show.svg");
+}
+.zi-view-tile {
+  -webkit-mask-image: url("/zondicons/view-tile.svg");
+          mask-image: url("/zondicons/view-tile.svg");
+}
+.zi-volume-down {
+  -webkit-mask-image: url("/zondicons/volume-down.svg");
+          mask-image: url("/zondicons/volume-down.svg");
+}
+.zi-volume-mute {
+  -webkit-mask-image: url("/zondicons/volume-mute.svg");
+          mask-image: url("/zondicons/volume-mute.svg");
+}
+.zi-volume-off {
+  -webkit-mask-image: url("/zondicons/volume-off.svg");
+          mask-image: url("/zondicons/volume-off.svg");
+}
+.zi-volume-up {
+  -webkit-mask-image: url("/zondicons/volume-up.svg");
+          mask-image: url("/zondicons/volume-up.svg");
+}
+.zi-wallet {
+  -webkit-mask-image: url("/zondicons/wallet.svg");
+          mask-image: url("/zondicons/wallet.svg");
+}
+.zi-watch {
+  -webkit-mask-image: url("/zondicons/watch.svg");
+          mask-image: url("/zondicons/watch.svg");
+}
+.zi-wrench {
+  -webkit-mask-image: url("/zondicons/wrench.svg");
+          mask-image: url("/zondicons/wrench.svg");
+}
+.zi-yin-yang {
+  -webkit-mask-image: url("/zondicons/yin-yang.svg");
+          mask-image: url("/zondicons/yin-yang.svg");
+}
+.zi-zoom-in {
+  -webkit-mask-image: url("/zondicons/zoom-in.svg");
+          mask-image: url("/zondicons/zoom-in.svg");
+}
+.zi-zoom-out {
+  -webkit-mask-image: url("/zondicons/zoom-out.svg");
+          mask-image: url("/zondicons/zoom-out.svg");
+}

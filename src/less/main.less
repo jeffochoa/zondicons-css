@@ -1,0 +1,16 @@
+@import './icons.less';
+
+.zi {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1em;
+    text-align: center;
+    width: 1em;
+    display: block;
+}
+
+each(@icons, {
+ .zi-@{value} {
+        mask-image: url("/zondicons/@{value}.svg");
+    }
+})
