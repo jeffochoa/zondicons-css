@@ -1,8 +1,13 @@
 {
   "name": "zondicons-css",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A small plugin to easily use zondicons in your front-end projects.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffochoa/zondicons-css"
+  },
+  "keywords": ["svg", "zondicons", "icons"],
   "scripts": {
     "dev": "npm run development",
     "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",

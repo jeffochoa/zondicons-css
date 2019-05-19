@@ -28,3 +28,21 @@ Add the css file to your view
     // on your main.less file
     @import './../../node_modules/zondicons-css/src/less/main.less';
 ```
+
+## Usage
+
+You just need to add the `zi zi-{icon}` classes to your HTML elements:
+
+```html
+<style>
+.bg-red {
+    background-color: red;
+}
+</style>
+
+<i class="zi zi-arrow-thin-up bg-red"></i>
+```
+
+Use the same icon-name from the original icons reference website: [https://www.zondicons.com/icons.html](https://www.zondicons.com/icons.html)
+
+The icon-color will change depending on the element's background color.
